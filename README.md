@@ -25,4 +25,24 @@ client(folder) -> script.js : This .js file contain the front code
 
 
 
+## How to Run
+Step1: 
+Run man.py it show like below:
+    Uvicorn running on http://127.0.0.2:8000 (Press CTRL+C to quit)
+Now Backend FastAPI run successfully.
+Step2:
+Enter following cmd in the terminal:
+    cd client
+    npm run dev
+if it show like below:
+    Local:   http://127.0.0.1:5173/
+Then FrontEnd run successfully. 
+Step3:
+Now open :   http://127.0.0.1:5173/ in browser .
+ 
+Now you successfully  Langchain End to End Project !!
+Ask your query then get MQL response.
+
+
+
 
