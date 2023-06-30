@@ -1,0 +1,2393 @@
+[{
+    "companyName": "WNS Global Services",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "WNS Global Services is a leading global business process management company that offers a wide range of industry-specific solutions, including finance and accounting, customer care, research and analytics, and more, helping organizations streamline their operations and drive business growth.",
+    "companyType": "BPM company",
+    "website": "www.wns.com",
+    "industryList": [
+      "Business Services",
+      "Outsourcing"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "",
+    "hqlocation": {
+      "city": "Mumbai",
+      "area": "India"
+    },
+    "branches": [],
+    "socialMediaHandles": {
+      "webTrafficReporting": "2M visits/month",
+      "socialMedia": {
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "instagramUrl": "",
+        "linkedUrl": ""
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 0,
+          "assets": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "liabilities": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "equity": {
+            "common": "0",
+            "preferred": "0",
+            "retainedEarning": "0",
+            "total": 0
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2023,
+          "revenue": "1.03B",
+          "expenses": 0,
+          "netIncome": 0
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 0,
+          "liquidityRatio": "",
+          "profitabilityRatio": "",
+          "debtRatio": "",
+          "equityRatio": "",
+          "otherRatios": ""
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 0,
+          "operatingActivities": [],
+          "financialActivities": []
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$38.85 USD",
+          "year": "2023",
+          "date": "",
+          "open": "",
+          "close": "",
+          "highValue": "+0.22",
+          "highPercentage": "0.57%",
+          "low": "",
+          "volume": ""
+        }
+      ],
+      "divident": [
+        {
+          "date": "",
+          "amount": "",
+          "type": ""
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "",
+        "patentTitle": "",
+        "patentNumber": "",
+        "abstract": "",
+        "description": "",
+        "claim": []
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 0,
+      "backOfficeSeats": 21000,
+      "outSourcingPartners": "Accenture,Infosys",
+      "numberOfJobOpenings": 200,
+      "numberOfEmployees": 42000
+    },
+    "industryAwardEvents": [
+      {
+        "title": "IAOP Global Outsourcing 100",
+        "associatedWith": "",
+        "sponsorship": "Sports & Educational Events",
+        "issueDate": "",
+        "description": ""
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "50 million USD",
+      "techStack": [
+        "Java",
+        ".NET",
+        "Oracle",
+        "SQL Server"
+      ],
+      "serviceProviderUse": [
+        "IBM,Microsoft"
+      ]
+    },
+    "media": [],
+    "products": [],
+    "departments": [
+      {
+        "departmentName": "",
+        "totalexecutives": 0,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Q1",
+        "painPoint": [],
+        "budgetPriorityForCurrentFiscal": [],
+        "UnderlyingReasonsForPriority": [],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": []
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": [],
+    "isMerged": [],
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Horizontal",
+      "Conglomerate"
+    ],
+    "vendors": [
+      "Microsoft",
+      "IBM"
+    ],
+    "countries": [],
+    "customParams": {
+      "csr": [
+        "Community Outreach",
+        "Education Initiatives"
+      ],
+      "esg": [
+        "B Rating"
+      ],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "Sitel",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "Sitel is a global outsourcing provider specializing in customer experience management. They deliver customer service, technical support, and sales support solutions, leveraging their expertise and innovative technologies to enhance customer interactions for their clients.",
+    "companyType": "Automotive manufacturer",
+    "website": "www.sitel.com",
+    "industryList": [
+      "computer",
+      "Fashion"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "private",
+    "hqlocation": {
+      "city": "Miami,FL",
+      "area": "USA"
+    },
+    "branches": [],
+    "socialMediaHandles": {
+      "webTrafficReporting": "1.5M visits/month",
+      "socialMedia": {
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "instagramUrl": "",
+        "linkedUrl": ""
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 0,
+          "assets": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "liabilities": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "equity": {
+            "common": "0",
+            "preferred": "0",
+            "retainedEarning": "0",
+            "total": 0
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2023,
+          "revenue": "1.7B",
+          "expenses": 0,
+          "netIncome": 0
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 0,
+          "liquidityRatio": "",
+          "profitabilityRatio": "",
+          "debtRatio": "",
+          "equityRatio": "",
+          "otherRatios": ""
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 0,
+          "operatingActivities": [],
+          "financialActivities": []
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$38.85 USD",
+          "year": "2023",
+          "date": "",
+          "open": "",
+          "close": "",
+          "highValue": "+0.22",
+          "highPercentage": "0.57%",
+          "low": "",
+          "volume": ""
+        }
+      ],
+      "divident": [
+        {
+          "date": "",
+          "amount": "",
+          "type": ""
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "",
+        "patentTitle": "",
+        "patentNumber": "",
+        "abstract": "",
+        "description": "",
+        "claim": []
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 0,
+      "backOfficeSeats": 8000,
+      "outSourcingPartners": "",
+      "numberOfJobOpenings": 150,
+      "numberOfEmployees": 75000
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Best Employer, CX Awards",
+        "associatedWith": "",
+        "sponsorship": "Local Community Programs",
+        "issueDate": "",
+        "description": ""
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "45 million USD",
+      "techStack": [
+        "Cloud",
+        "CRM",
+        "AI",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "Google Cloud,Microsoft"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Google",
+      "Slack"
+    ],
+    "departments": [
+      {
+        "departmentName": "",
+        "totalexecutives": 0,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Q1",
+        "painPoint": [],
+        "budgetPriorityForCurrentFiscal": [],
+        "UnderlyingReasonsForPriority": [],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": []
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": [],
+    "isMerged": [],
+    "foundedOn":"2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "",
+    "founders": [
+      ""
+    ],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "Microsoft",
+      "IBM"
+    ],
+    "countries": [],
+    "customParams": {
+      "csr": [
+        "Citizen of the World",
+        "Citizen of the Planet"
+      ],
+      "esg": [
+        "A Rating"
+      ],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "Teleperformance",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "Teleperformance is a leading provider of outsourced customer experience management solutions. They offer a range of services, including customer care, technical support, and sales support, assisting businesses in delivering exceptional customer experiences and driving customer satisfaction.",
+    "companyType": "customer experience management",
+    "website": "www.teleperformance.com",
+    "industryList": [
+      "Computer",
+      "Consulting"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "private",
+    "hqlocation": {
+      "city": "Paris",
+      "area": "France"
+    },
+    "branches": [],
+    "socialMediaHandles": {
+      "webTrafficReporting": "3M visits/month",
+      "socialMedia": {
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "instagramUrl": "",
+        "linkedUrl": ""
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 0,
+          "assets": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "liabilities": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "equity": {
+            "common": "0",
+            "preferred": "0",
+            "retainedEarning": "0",
+            "total": 0
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2023,
+          "revenue": "6.5B",
+          "expenses": 0,
+          "netIncome": 0
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 0,
+          "liquidityRatio": "",
+          "profitabilityRatio": "",
+          "debtRatio": "",
+          "equityRatio": "",
+          "otherRatios": ""
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 0,
+          "operatingActivities": [],
+          "financialActivities": []
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$38.85 USD",
+          "year": "2023",
+          "date": "",
+          "open": "",
+          "close": "",
+          "highValue": "+0.22",
+          "highPercentage": "0.57%",
+          "low": "",
+          "volume": ""
+        }
+      ],
+      "divident": [
+        {
+          "date": "",
+          "amount": "",
+          "type": ""
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "",
+        "patentTitle": "",
+        "patentNumber": "",
+        "abstract": "",
+        "description": "",
+        "claim": []
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 0,
+      "backOfficeSeats": 81000,
+      "outSourcingPartners": "",
+      "numberOfJobOpenings": 300,
+      "numberOfEmployees": 380000
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Best Place to Work, Customer Experience Excellence Awards",
+        "associatedWith": "",
+        "sponsorship": "Youth Sports Programs",
+        "issueDate": "",
+        "description": ""
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "80 million USD",
+      "techStack": [
+        "Cloud",
+        "CRM",
+        "AI",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "AWS,Microsoft"
+      ]
+    },
+    "media": [],
+    "products": [
+      "G Suit",
+      "Google"
+    ],
+    "departments": [
+      {
+        "departmentName": "",
+        "totalexecutives": 0,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Q1",
+        "painPoint": [],
+        "budgetPriorityForCurrentFiscal": [],
+        "UnderlyingReasonsForPriority": [],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": []
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": [],
+    "isMerged": [],
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "",
+    "founders": [
+      "Daniel Julien"
+    ],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [],
+    "customParams": {
+      "csr": [
+        "Citizen of the World",
+        "Citizen of the Planet"
+      ],
+      "esg": [
+        "A Rating"
+      ],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "Genpact",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "Genpact is a professional services firm that specializes in digital transformation, business process management, and analytics. They help companies across various industries optimize their operations, drive efficiency, and achieve business goals through their expertise and advanced technologies.",
+    "companyType": "Global professional services",
+    "website": "www.genpact.com",
+    "industryList": [
+      "Transformation",
+      "electronics"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "",
+    "hqlocation": {
+      "city": "New York",
+      "area": "USA"
+    },
+    "branches": [],
+    "socialMediaHandles": {
+      "webTrafficReporting": "2.5M visits/month",
+      "socialMedia": {
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "instagramUrl": "",
+        "linkedUrl": ""
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 0,
+          "assets": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "liabilities": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "equity": {
+            "common": "0",
+            "preferred": "0",
+            "retainedEarning": "0",
+            "total": 0
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2023,
+          "revenue": "3.7B",
+          "expenses": 0,
+          "netIncome": 0
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 0,
+          "liquidityRatio": "",
+          "profitabilityRatio": "",
+          "debtRatio": "",
+          "equityRatio": "",
+          "otherRatios": ""
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 0,
+          "operatingActivities": [],
+          "financialActivities": []
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$38.85 USD",
+          "year": "2023",
+          "date": "",
+          "open": "",
+          "close": "",
+          "highValue": "+0.22",
+          "highPercentage": "0.57%",
+          "low": "",
+          "volume": ""
+        }
+      ],
+      "divident": [
+        {
+          "date": "",
+          "amount": "",
+          "type": ""
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "",
+        "patentTitle": "",
+        "patentNumber": "",
+        "abstract": "",
+        "description": "",
+        "claim": []
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 0,
+      "backOfficeSeats": 45000,
+      "outSourcingPartners": "Accenture, WNS, Infosys",
+      "numberOfJobOpenings": 250,
+      "numberOfEmployees": 96000
+    },
+    "industryAwardEvents": [
+      {
+        "title": "BPO Excellence Awards",
+        "associatedWith": "",
+        "sponsorship": "STEM Education Programs",
+        "issueDate": "",
+        "description": ""
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "80 million USD",
+      "techStack": [
+        "Cloud",
+        "CRM",
+        "AI",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "AWS,Microsoft,Google Cloud"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Google",
+      "Energy Storage Systems"
+    ],
+    "departments": [
+      {
+        "departmentName": "",
+        "totalexecutives": 0,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Q1",
+        "painPoint": [],
+        "budgetPriorityForCurrentFiscal": [],
+        "UnderlyingReasonsForPriority": [],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": []
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": [],
+    "isMerged": [],
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "",
+    "founders": [
+      "Pramod Bhasin"
+    ],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Horizontal",
+      "Conglomerate"
+    ],
+    "vendors": [],
+    "countries": [],
+    "industries": [],
+    "customParams": {
+      "csr": [
+        "Genpact Cares",
+        "Sustainability Initiatives"
+      ],
+      "esg": [
+        "A Rating"
+      ],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "Concentrix",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "Concentrix is a global business services company offering customer engagement, technology, and process optimization solutions. They assist businesses in delivering superior customer experiences, optimizing operations, and accelerating revenue growth through their comprehensive suite of services.",
+    "companyType": "BPM company",
+    "website": "www.concentrix.com",
+    "industryList": [
+      "Retail",
+      "healthcare"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "",
+    "hqlocation": {
+      "city": "Fremont,CA",
+      "area": "USA"
+    },
+    "branches": [],
+    "socialMediaHandles": {
+      "webTrafficReporting": "2.8M visits/month",
+      "socialMedia": {
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "instagramUrl": "",
+        "linkedUrl": ""
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 0,
+          "assets": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "liabilities": {
+            "current": 0,
+            "nonCurrent": 0,
+            "total": 0,
+            "type": "",
+            "description": ""
+          },
+          "equity": {
+            "common": "0",
+            "preferred": "0",
+            "retainedEarning": "0",
+            "total": 0
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2023,
+          "revenue": "4.7B",
+          "expenses": 0,
+          "netIncome": 0
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 0,
+          "liquidityRatio": "",
+          "profitabilityRatio": "",
+          "debtRatio": "",
+          "equityRatio": "",
+          "otherRatios": ""
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 0,
+          "operatingActivities": [],
+          "financialActivities": []
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$38.85 USD",
+          "year": "2023",
+          "date": "",
+          "open": "",
+          "close": "",
+          "highValue": "+0.22",
+          "highPercentage": "0.57%",
+          "low": "",
+          "volume": ""
+        }
+      ],
+      "divident": [
+        {
+          "date": "",
+          "amount": "",
+          "type": ""
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "",
+        "patentTitle": "",
+        "patentNumber": "",
+        "abstract": "",
+        "description": "",
+        "claim": []
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 0,
+      "backOfficeSeats": 41000,
+      "outSourcingPartners": "",
+      "numberOfJobOpenings": 275,
+      "numberOfEmployees": 225000
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Stevie Awards, CCW Excellence Awards",
+        "associatedWith": "",
+        "sponsorship": "Community Development",
+        "issueDate": "",
+        "description": ""
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "65 million USD",
+      "techStack": [
+        "Cloud",
+        "AI",
+        "Analytics",
+        "RPA"
+      ],
+      "serviceProviderUse": [
+        "AWS",
+        "Microsoft",
+        "Google Cloud"
+      ]
+    },
+    "media": [],
+    "products": [],
+    "departments": [
+      {
+        "departmentName": "",
+        "totalexecutives": 0,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Q1",
+        "painPoint": [],
+        "budgetPriorityForCurrentFiscal": [],
+        "UnderlyingReasonsForPriority": [],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": []
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": [],
+    "isMerged": [],
+    "foundedOn": "1998-05-04T18:30:00.000+00:00",
+    "contactNumber": "",
+    "founders": [
+      "Chris Caldwell",
+      "Cheyne Cole"
+    ],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [],
+    "customParams": {
+      "csr": [
+        "Concentrix Cares",
+        "Environmental Initiatives"
+      ],
+      "esg": [
+        "B Rating"
+      ],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "ABC Corporation",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "ABC Corporation is a leading technology company specializing in software development.",
+    "website": "https://www.abccorp.com",
+    "industryList": [
+      "Technology",
+      "Software Development"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "XYZ Inc.",
+    "hqlocation": {
+      "city": "New York",
+      "area": "Manhattan"
+    },
+    "branches": [
+      "Los Angeles",
+      "Chicago",
+      "London"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.abccorp.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/abccorp",
+        "twitterUrl": "https://www.twitter.com/abccorp",
+        "instagramUrl": "https://www.instagram.com/abccorp",
+        "linkedUrl": "https://www.linkedin.com/company/abccorp"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2020,
+          "assets": {
+            "current": 1000000,
+            "nonCurrent": 500000,
+            "total": 1500000,
+            "type": "USD",
+            "description": "Total assets for the year 2020"
+          },
+          "liabilities": {
+            "current": 400000,
+            "nonCurrent": 300000,
+            "total": 700000,
+            "type": "USD",
+            "description": "Total liabilities for the year 2020"
+          },
+          "equity": {
+            "common": "10000",
+            "preferred": "5000",
+            "retainedEarning": "120000",
+            "total": 135000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2020,
+          "revenue": "$500B",
+          "expenses": 400000,
+          "netIncome": 100000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2020,
+          "liquidityRatio": "1.5",
+          "profitabilityRatio": "0.2",
+          "debtRatio": "0.5",
+          "equityRatio": "0.5",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2020,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Loans",
+            "Investments"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NASDAQ",
+          "price": "$100 USD",
+          "year": "2020",
+          "date": "2020-01-01",
+          "open": "95",
+          "close": "105",
+          "highValue": "110",
+          "highPercentage": "10%",
+          "low": "90",
+          "volume": "10000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2020-12-31",
+          "amount": "2",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2021-01-01",
+        "patentTitle": "Innovative Solution",
+        "patentNumber": "US123456789",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 100,
+      "backOfficeSeats": 50,
+      "outSourcingPartners": "XYZ Solutions",
+      "numberOfJobOpenings": 10,
+      "numberOfEmployees": 200
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Technology Innovation Award",
+        "associatedWith": "Tech Association",
+        "sponsorship": "Gold Sponsor",
+        "issueDate": "2020-05-15",
+        "description": "Received the Technology Innovation Award for outstanding contributions in the field of technology."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "100000",
+      "techStack": [
+        "CRM",
+        "Analytics",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "Marketing Agency",
+        "Email Service Provider"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Product A",
+      "Product B"
+    ],
+    "departments": [
+      {
+        "departmentName": "Sales",
+        "totalexecutives": 10,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Annual",
+        "painPoint": [
+          "Low Conversion Rate",
+          "Ineffective Sales Strategies"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Marketing",
+          "Sales Training"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "Increased Market Competition",
+          "Skill Gap"
+        ],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": [
+              "CRM",
+              "Sales Automation"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-123-456-7890",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "PQR Corporation",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "PQR Corporation is a leading media company specializing in software development.",
+    "companyType": "Global professional services",
+    "website": "https://www.pqrcorp.com",
+    "industryList": [
+      "media",
+      "Software development"
+    ],
+    "classification": "B2C",
+    "investorId": [],
+    "corporate": "PQR Inc.",
+    "hqlocation": {
+      "city": "London",
+      "area": "Berrylands"
+    },
+    "branches": [
+      "Los Angeles",
+      "Chicago",
+      "New York"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.pqrcorp.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/pqrcorp",
+        "twitterUrl": "https://www.twitter.com/pqrcorp",
+        "instagramUrl": "https://www.instagram.com/pqrcorp",
+        "linkedUrl": "https://www.linkedin.com/company/pqrcorp"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2019,
+          "assets": {
+            "current": 2000000,
+            "nonCurrent": 500000,
+            "total": 2500000,
+            "type": "USD",
+            "description": "Total assets for the year 2019"
+          },
+          "liabilities": {
+            "current": 800000,
+            "nonCurrent": 300000,
+            "total": 1100000,
+            "type": "USD",
+            "description": "Total liabilities for the year 2019"
+          },
+          "equity": {
+            "common": "10000",
+            "preferred": "5000",
+            "retainedEarning": "120000",
+            "total": 135000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2019,
+          "revenue": "$50B",
+          "expenses": 400000,
+          "netIncome": 100000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2019,
+          "liquidityRatio": "1.5",
+          "profitabilityRatio": "0.2",
+          "debtRatio": "0.5",
+          "equityRatio": "0.5",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2019,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Loans",
+            "Investments"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NASDAQ",
+          "price": "$100 USD",
+          "year": "2019",
+          "date": "2019-01-01",
+          "open": "95",
+          "close": "105",
+          "highValue": "110",
+          "highPercentage": "10%",
+          "low": "90",
+          "volume": "10000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2019-12-31",
+          "amount": "2",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2020-01-01",
+        "patentTitle": "Innovative Solution",
+        "patentNumber": "US123456789",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 100,
+      "backOfficeSeats": 50,
+      "outSourcingPartners": "PQR Solutions",
+      "numberOfJobOpenings": 10,
+      "numberOfEmployees": 200
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Technology Innovation Award",
+        "associatedWith": "Tech Association",
+        "sponsorship": "Gold Sponsor",
+        "issueDate": "2019-05-15",
+        "description": "Received the Technology Innovation Award for outstanding contributions in the field of technology."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "100000",
+      "techStack": [
+        "CRM",
+        "Analytics",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "Marketing Agency",
+        "Email Service Provider"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Product A",
+      "Product B"
+    ],
+    "departments": [
+      {
+        "departmentName": "Sales",
+        "totalexecutives": 10,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Annual",
+        "painPoint": [
+          "Low Conversion Rate",
+          "Ineffective Sales Strategies"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Marketing",
+          "Sales Training"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "Increased Market Competition",
+          "Skill Gap"
+        ],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": [
+              "CRM",
+              "Sales Automation"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-123-456-7890",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "Ind Corporation",
+    "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQEzdGqx46CJfw/company-logo_200_200/0/1628695331902?e=2147483647&v=beta&t=czfZv1fHhXSo8y4k-cgoSbf2nbCRpplVwO95jmgT6Yc",
+    "companyDescription": "Ind Corporation is a leading softwa recompany specializing in software development.",
+    "companyType": "Global professional services",
+    "website": "https://www.pqrcorp.com",
+    "industryList": [
+      "Software development"
+    ],
+    "classification": "B2C",
+    "investorId": [],
+    "corporate": "Ind Inc.",
+    "hqlocation": {
+      "city": "Gurugram",
+      "area": "Haryana"
+    },
+    "branches": [
+      "Banglore",
+      "Chennai",
+      "New York"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.indcorp.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/indcorp",
+        "twitterUrl": "https://www.twitter.com/indcorp",
+        "instagramUrl": "https://www.instagram.com/indcorp",
+        "linkedUrl": "https://www.linkedin.com/company/indcorp"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2019,
+          "assets": {
+            "current": 2000000,
+            "nonCurrent": 500000,
+            "total": 2500000,
+            "type": "INR",
+            "description": "Total assets for the year 2019"
+          },
+          "liabilities": {
+            "current": 800000,
+            "nonCurrent": 300000,
+            "total": 1100000,
+            "type": "INR",
+            "description": "Total liabilities for the year 2019"
+          },
+          "equity": {
+            "common": "10000",
+            "preferred": "5000",
+            "retainedEarning": "120000",
+            "total": 135000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2019,
+          "revenue": "590B",
+          "expenses": 400000,
+          "netIncome": 100000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2019,
+          "liquidityRatio": "1.5",
+          "profitabilityRatio": "0.2",
+          "debtRatio": "0.5",
+          "equityRatio": "0.5",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2019,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Loans",
+            "Investments"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NASDAQ",
+          "price": "$100 USD",
+          "year": "2019",
+          "date": "2019-01-01",
+          "open": "95",
+          "close": "105",
+          "highValue": "110",
+          "highPercentage": "10%",
+          "low": "90",
+          "volume": "10000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2021-12-31",
+          "amount": "2",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2020-01-01",
+        "patentTitle": "Innovative Solution",
+        "patentNumber": "US123456789",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 100,
+      "backOfficeSeats": 50,
+      "outSourcingPartners": "Ind Solutions",
+      "numberOfJobOpenings": 10,
+      "numberOfEmployees": 200
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Technology Innovation Award",
+        "associatedWith": "Tech Association",
+        "sponsorship": "Gold Sponsor",
+        "issueDate": "2021-05-15",
+        "description": "Received the Technology Innovation Award for outstanding contributions in the field of technology."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "100000",
+      "techStack": [
+        "CRM",
+        "Analytics",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "Marketing Agency",
+        "Email Service Provider"
+      ]
+    },
+    "media": [],
+    "products": [
+      "google",
+      "Slack"
+    ],
+    "departments": [
+      {
+        "departmentName": "Sales",
+        "totalexecutives": 10,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Annual",
+        "painPoint": [
+          "Low Conversion Rate",
+          "Ineffective Sales Strategies"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Marketing",
+          "Sales Training"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "Increased Market Competition",
+          "Skill Gap"
+        ],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": [
+              "CRM",
+              "Sales Automation"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-123-456-7890",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },
+  {
+    "companyName": "LIFE Corporation",
+    "companyLogo": "data:image/png;base64,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",
+    "companyDescription": "LIFE Corporation is a leading media and electronics company specializing in software development.",
+    "companyType": "BPM company",
+    "website": "https://www.pqrcorp.com",
+    "industryList": [
+      "media",
+      "electronics"
+    ],
+    "classification": "B2C",
+    "investorId": [],
+    "corporate": "LIFE Inc.",
+    "hqlocation": {
+      "city": "San Francisco",
+      "area": "dummy"
+    },
+    "branches": [
+      "Los Angeles",
+      "Chicago",
+      "california"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.lifecorp.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/lifecorp",
+        "twitterUrl": "https://www.twitter.com/lifecorp",
+        "instagramUrl": "https://www.instagram.com/lifecorp",
+        "linkedUrl": "https://www.linkedin.com/company/lifecorp"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2019,
+          "assets": {
+            "current": 2000000,
+            "nonCurrent": 500000,
+            "total": 2500000,
+            "type": "USD",
+            "description": "Total assets for the year 2019"
+          },
+          "liabilities": {
+            "current": 800000,
+            "nonCurrent": 300000,
+            "total": 1100000,
+            "type": "USD",
+            "description": "Total liabilities for the year 2019"
+          },
+          "equity": {
+            "common": "10000",
+            "preferred": "5000",
+            "retainedEarning": "120000",
+            "total": 135000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2019,
+          "revenue": "60B",
+          "expenses": 400000,
+          "netIncome": 100000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2019,
+          "liquidityRatio": "1.5",
+          "profitabilityRatio": "0.2",
+          "debtRatio": "0.5",
+          "equityRatio": "0.5",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2019,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Loans",
+            "Investments"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NASDAQ",
+          "price": "$100 USD",
+          "year": "2019",
+          "date": "2019-01-01",
+          "open": "95",
+          "close": "105",
+          "highValue": "110",
+          "highPercentage": "10%",
+          "low": "90",
+          "volume": "10000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2019-12-31",
+          "amount": "2",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2020-01-01",
+        "patentTitle": "Innovative Solution",
+        "patentNumber": "US123456789",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 400,
+      "backOfficeSeats": 70,
+      "outSourcingPartners": "LIFE Solutions",
+      "numberOfJobOpenings": 10,
+      "numberOfEmployees": 200
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Technology Innovation Award",
+        "associatedWith": "Tech Association",
+        "sponsorship": "Gold Sponsor",
+        "issueDate": "2023-05-15",
+        "description": "Received the Technology Innovation Award for outstanding contributions in the field of technology."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "100000",
+      "techStack": [
+        "CRM",
+        "Analytics",
+        "Automation"
+      ],
+      "serviceProviderUse": [
+        "Marketing Agency",
+        "Email Service Provider"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Product A",
+      "Product B"
+    ],
+    "departments": [
+      {
+        "departmentName": "Sales",
+        "totalexecutives": 10,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Annual",
+        "painPoint": [
+          "Low Conversion Rate",
+          "Ineffective Sales Strategies"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Marketing",
+          "Sales Training"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "Increased Market Competition",
+          "Skill Gap"
+        ],
+        "KeyPartners": [
+          {
+            "BPO": [],
+            "technologies": [
+              "CRM",
+              "Sales Automation"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-123-456-7890",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },{
+    "companyName": "TechSolutions Inc.",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcQwBDisTz0TJqPBHM1MYTP6gGeLLqp6_-jH97GdFrg&s",
+    "companyDescription": "TechSolutions Inc. is a leading technology company specializing in providing software solutions for businesses.",
+    "companyType": "Global professional services",
+    "website": "https://www.techsolutions.com",
+    "industryList": [
+      "technology",
+      "Consulting"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "TechSolutions Corporation",
+    "hqlocation": {
+      "city": "New York",
+      "area": "dummy"
+    },
+    "branches": [
+      "San Francisco",
+      "London",
+      "Tokyo"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.techsolutions.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/techsolutions",
+        "twitterUrl": "https://www.twitter.com/techsolutions",
+        "instagramUrl": "https://www.instagram.com/techsolutions",
+        "linkedUrl": "https://www.linkedin.com/company/techsolutions"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2020,
+          "assets": {
+            "current": 1500000,
+            "nonCurrent": 600000,
+            "total": 2100000,
+            "type": "USD",
+            "description": "Total assets for the year 2020"
+          },
+          "liabilities": {
+            "current": 500000,
+            "nonCurrent": 400000,
+            "total": 900000,
+            "type": "USD",
+            "description": "Total liabilities for the year 2020"
+          },
+          "equity": {
+            "common": "300000",
+            "preferred": "100000",
+            "retainedEarning": "800000",
+            "total": 1200000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2020,
+          "revenue": "80B",
+          "expenses": 500000,
+          "netIncome": 300000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2020,
+          "liquidityRatio": "2.5",
+          "profitabilityRatio": "0.375",
+          "debtRatio": "0.4286",
+          "equityRatio": "0.5714",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2020,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Investments",
+            "Dividends"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NYSE",
+          "price": "$150 USD",
+          "year": "2020",
+          "date": "2020-01-01",
+          "open": "145",
+          "close": "155",
+          "highValue": "160",
+          "highPercentage": "10%",
+          "low": "140",
+          "volume": "8000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2020-12-31",
+          "amount": "3",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2021-01-01",
+        "patentTitle": "Advanced Technology Solution",
+        "patentNumber": "US987654321",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2",
+          "Claim 3"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [
+      "InnoTech Solutions",
+      "Tech Innovators Inc."
+    ],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 300,
+      "backOfficeSeats": 50,
+      "outSourcingPartners": "TechSolutions Partners",
+      "numberOfJobOpenings": 20,
+      "numberOfEmployees": 150
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Innovation Excellence Award",
+        "associatedWith": "Tech Innovators Association",
+        "sponsorship": "Platinum Sponsor",
+        "issueDate": "2022-09-20",
+        "description": "Received the Innovation Excellence Award for exceptional innovations in the technology industry."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "120000",
+      "techStack": [
+        "CRM",
+        "Marketing Automation",
+        "Analytics"
+      ],
+      "serviceProviderUse": [
+        "Digital Marketing Agency",
+        "Marketing Automation Platform"
+      ]
+    },
+    "media": [],
+    "products": [
+      "Product X",
+      "Product Y",
+      "Product Z"
+    ],
+    "departments": [
+      {
+        "departmentName": "Marketing",
+        "totalexecutives": 8,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Quarterly",
+        "painPoint": [
+          "Low Conversion Rate",
+          "Limited Brand Awareness"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Digital Advertising",
+          "Content Marketing"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "Increased Market Competition",
+          "Need for Lead Generation"
+        ],
+        "KeyPartners": [
+          {
+            "Marketing Agency": [
+              "Agency A",
+              "Agency B"
+            ],
+            "technologies": [
+              "CRM",
+              "Marketing Automation",
+              "Analytics"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-987-654-3210",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "Microsoft",
+      "IBM"
+    ],
+    "countries": [
+      "United States",
+      "Japan"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  },
+  {
+    "companyName": "GlobalMed Inc.",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEGN6bslBBNakFKuR02yccBhH17NOB6X2xcd6CXu9YA&s",
+    "companyDescription": "GlobalMed Inc. is a global healthcare technology company focused on telemedicine solutions.",
+    "companyType": "Automotive manufacturer",
+    "website": "https://www.globalmed.com",
+    "industryList": [
+      "healthcare",
+      "technology"
+    ],
+    "classification": "B2B",
+    "investorId": [],
+    "corporate": "GlobalMed Corporation",
+    "hqlocation": {
+      "city": "Phoenix",
+      "area": "dummy"
+    },
+    "branches": [
+      "London",
+      "Sydney",
+      "Singapore"
+    ],
+    "socialMediaHandles": {
+      "webTrafficReporting": "https://analytics.globalmed.com",
+      "socialMedia": {
+        "facebookUrl": "https://www.facebook.com/globalmed",
+        "twitterUrl": "https://www.twitter.com/globalmed",
+        "instagramUrl": "https://www.instagram.com/globalmed",
+        "linkedUrl": "https://www.linkedin.com/company/globalmed"
+      }
+    },
+    "financeData": {
+      "balanceSheet": [
+        {
+          "year": 2020,
+          "assets": {
+            "current": 1000000,
+            "nonCurrent": 800000,
+            "total": 1800000,
+            "type": "USD",
+            "description": "Total assets for the year 2020"
+          },
+          "liabilities": {
+            "current": 400000,
+            "nonCurrent": 600000,
+            "total": 1000000,
+            "type": "USD",
+            "description": "Total liabilities for the year 2020"
+          },
+          "equity": {
+            "common": "200000",
+            "preferred": "100000",
+            "retainedEarning": "700000",
+            "total": 1000000
+          }
+        }
+      ],
+      "incomeStatement": [
+        {
+          "year": 2020,
+          "revenue": "600B",
+          "expenses": 400000,
+          "netIncome": 200000
+        }
+      ],
+      "financialRatio": [
+        {
+          "year": 2020,
+          "liquidityRatio": "2.5",
+          "profitabilityRatio": "0.333",
+          "debtRatio": "0.5556",
+          "equityRatio": "0.4444",
+          "otherRatios": "..."
+        }
+      ],
+      "cashflow": [
+        {
+          "year": 2020,
+          "operatingActivities": [
+            "Sales",
+            "Payments"
+          ],
+          "financialActivities": [
+            "Investments",
+            "Loan Repayments"
+          ]
+        }
+      ],
+      "stockPrice": [
+        {
+          "stockExchangeName": "NASDAQ",
+          "price": "$80 USD",
+          "year": "2020",
+          "date": "2020-01-01",
+          "open": "75",
+          "close": "85",
+          "highValue": "90",
+          "highPercentage": "12.5%",
+          "low": "70",
+          "volume": "5000"
+        }
+      ],
+      "divident": [
+        {
+          "date": "2020-12-31",
+          "amount": "1",
+          "type": "Cash Dividend"
+        }
+      ]
+    },
+    "intellectualProperty": [
+      {
+        "patentFiledDate": "2021-01-01",
+        "patentTitle": "Telemedicine Platform",
+        "patentNumber": "US9876543210",
+        "abstract": "A brief abstract of the patent",
+        "description": "Detailed description of the patent",
+        "claim": [
+          "Claim 1",
+          "Claim 2",
+          "Claim 3",
+          "Claim 4"
+        ]
+      }
+    ],
+    "childCompanies": [],
+    "competitors": [
+      "TeleHealth Solutions",
+      "MedTech Innovations"
+    ],
+    "parentCompanies": [],
+    "workforce": {
+      "contactCentreSeats": 200,
+      "backOfficeSeats": 30,
+      "outSourcingPartners": "GlobalMed Partners",
+      "numberOfJobOpenings": 10,
+      "numberOfEmployees": 100
+    },
+    "industryAwardEvents": [
+      {
+        "title": "Healthcare Technology Innovation Award",
+        "associatedWith": "Global Health Association",
+        "sponsorship": "Gold Sponsor",
+        "issueDate": "2022-08-15",
+        "description": "Received the Healthcare Technology Innovation Award for outstanding contributions to the telemedicine industry."
+      }
+    ],
+    "legalIssues": [],
+    "marketingSpendTechStack": {
+      "marketing_spend": "80000",
+      "techStack": [
+        "CRM",
+        "Marketing Automation",
+        "Telehealth Platform"
+      ],
+      "serviceProviderUse": [
+        "Digital Marketing Agency",
+        "Telehealth Platform Provider"
+      ]
+    },
+    "media": [],
+    "products": [
+      "TeleMed Platform X",
+      "TeleMed Platform Y"
+    ],
+    "departments": [
+      {
+        "departmentName": "Sales",
+        "totalexecutives": 5,
+        "executives": [],
+        "deptHead": [],
+        "keyDecisionMakers": [],
+        "keyInfluencers": [],
+        "budgetCycle": "Monthly",
+        "painPoint": [
+          "Competitive Pricing",
+          "Market Expansion"
+        ],
+        "budgetPriorityForCurrentFiscal": [
+          "Sales Training",
+          "Market Research"
+        ],
+        "UnderlyingReasonsForPriority": [
+          "New Product Launch",
+          "Increased Sales Target"
+        ],
+        "KeyPartners": [
+          {
+            "Sales Training": [
+              "Provider A",
+              "Provider B"
+            ],
+            "technologies": [
+              "CRM",
+              "Sales Automation",
+              "Analytics"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [],
+    "isActive": true,
+    "isMerged": false,
+    "foundedOn": "2000-05-04T18:30:00.000+00:00",
+    "contactNumber": "+1-123-456-7890",
+    "founders": [],
+    "boardOfDirector": [],
+    "mergerAndAquisitionType": [
+      "Conglomerate",
+      "Horizontal"
+    ],
+    "vendors": [
+      "IBM",
+      "Microsoft"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Australia",
+      "Singapore"
+    ],
+    "customParams": {
+      "csr": [],
+      "esg": [],
+      "swotAnalysis": [],
+      "regulatoryCompliance": [],
+      "LobbyingAndPoliticalContributions": [],
+      "executiveBenefitsAndPerks": [],
+      "trainingAndDevelopmentPrograms": [],
+      "companyCulture": [],
+      "diversityAndInclusionInitiatives": [],
+      "sustainablityInitiatives": [],
+      "supplyChain": []
+    }
+  }]
